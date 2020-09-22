@@ -10,7 +10,7 @@ import { NavComponent } from './nav/nav.component';
 @NgModule({
   declarations: [
     AppComponent,
-      //ValueComponent,
+      ValueComponent,
       NavComponent
    ],
   imports: [
